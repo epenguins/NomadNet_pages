@@ -1,0 +1,16 @@
+site:
+    # Site name
+    title: Default Node Site
+    title_sub_line: This site has not been configured.
+    # Background color for title bar
+    title_bar_rgb: 07f
+    # Background color for footer bar
+    footer_bar_rgb: 07f
+    footer: NomadNetwork Site
+
+pages:
+    # Name that appears in menu
+    Home:
+        file: /path/to//home.mu
+    About:
+        file: /path/to/about.mu
