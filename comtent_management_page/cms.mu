@@ -1,5 +1,6 @@
-#!/usr/bin/python3.9
+#!/usr/bin/python3
 #!c=0
+# ^^^^ <--> Nomadnet specific to prevent page caching, may change if you like.
 
 import os
 import yaml
