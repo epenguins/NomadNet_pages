@@ -35,7 +35,7 @@ menu_items = ''
 
 for p in config['pages']:
 ##    print(p)
-    menu_items = menu_items + '`!`[' + p + '`:/page/index.mu`page=' + p + ']`! | '
+    menu_items = menu_items + '`!`[<' + p + '>`:/page/index.mu`page=' + p + ']`! | '
     
 menu = '''`c` ''' + menu_items + ' `*Time: ' + time_now + '''`*
 -~
